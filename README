@@ -1,0 +1,9 @@
+1. Calcul matematic
+2. Calcul matematic 
+3. transformam tot in zile si dupa scadem din zile ca sa vedem cum trec lunile ca sa putem sa vedem asa si da e an bisect
+4. folosim functiile precendente pentru date si time si adaugam si elementul de timezone, crescand timespampul cu cat ne trebuie
+5. calculam cati ani au trecut, cate luni( ce luni) cate zile ore minute si secunde si inmultim cu multiplul necesar
+6. Afisare simpla utilizand switchul si if-uri
+7. citim elementele unui vector, si dupa comparam elementele vectorului pentru a ordona datele in ordine crescatoare, dupa le afisam ca la 6
+8. cu ajutorul calculelor matematice aflam cate elemente citim si cate numere de control citim. Dupa ce realizam asta incercam sa transformam problema in taskul 7, creeand un vector de numere ca la taskul 7 in care adaugam un element doar daca numerele de control coincid asa cum e in cerinta. 
+9. Calculam toate datele posibile ale fiecarei persoane. Calculam toate intervalele orare posibile. Verificam cate persoane pot participa la orice interval orar si care are mai multe sau egale numarul de persoane cu cat ne cere afisam ora respectiva
